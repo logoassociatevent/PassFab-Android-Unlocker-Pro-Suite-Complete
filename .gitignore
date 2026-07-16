@@ -1,0 +1,8 @@
+*.exe
+*.dll
+*.log
+*.tmp
+build/
+dist/
+Thumbs.db
+.DS_Store
